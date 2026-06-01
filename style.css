@@ -271,7 +271,7 @@ a{
 .titulo-secao{
     text-align: center;
 
-    font-size: 5rem;
+    font-size: 6rem;
 
     color: white;
 
@@ -291,7 +291,7 @@ a{
 .titulo-categoria{
     color: var(--bege);
 
-    font-size: 2rem;
+    font-size: 3rem;
 
     margin-bottom: 30px;
 }
@@ -307,7 +307,7 @@ a{
 }
 
 .card{
-    width: 320px;
+    width: 250px;
 
     background-color: white;
 
